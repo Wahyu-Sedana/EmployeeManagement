@@ -1,7 +1,7 @@
 # Employee Management API
 
 A RESTful API built with **Spring Boot** and **MySQL** to manage employees, departments, and positions.  
-Includes **validation**, **global exception handling**, **DTO mapping**, and **Swagger documentation** for API testing.
+Includes **validation**, **global exception handling** and **DTO mapping**.
 
 ## Features
 
